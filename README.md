@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I'm Siu Kang, programming language explorer
+### I'm Siu Kang, Programming Language Explorer
 🎓 College Student - Industrial ICT Technology
 <!--
 **SIUSIUSIUSIU/SIUSIUSIUSIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
