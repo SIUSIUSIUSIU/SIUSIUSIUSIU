@@ -4,7 +4,7 @@
 
 </br>
 
-<div><h2>📃 Study🌱 📃</h2></div>
+<div><h2>🌱 Study 🌱</h2></div>
 <div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=CSS3&logoColor=white">
