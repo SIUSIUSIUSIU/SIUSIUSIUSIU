@@ -4,7 +4,7 @@
 
 </br>
 
-<div><h1>📃 Study 📃</h1></div>
+<div><h2>📃 Study🌱 📃</h2></div>
 <div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -15,7 +15,7 @@
 
 </br>
 
-<div><h1>🛠️ Tool 🛠️</h1></div>
+<div><h2>🛠️ Tool 🛠️</h2></div>
 <div>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
