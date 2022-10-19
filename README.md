@@ -1,7 +1,7 @@
 # Hi there 👋 
 ## I'm Siu Kang, Programming Language Explorer
-🎓 College Student - Industrial ICT Technology
-
+🎓 College Student - Industrial ICT Technology  
+📃 Education - Digital Smart BUSAN Academy
 </br>
 
 <div><h2>🌱 Study 🌱</h2></div>
